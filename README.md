@@ -1,0 +1,3 @@
+Download Link: https://assignmentchef.com/product/solved-solvedsum-of-numbers-solution
+<br>
+Create an application that displays a form similar to the one show Figure 5-44. When the Enter Numbers button is clicked, the application should display the input box shown in Figure 5-45.The input box asks the user to enter a postive integer value. Notice that the default input value is 10. When the Ok button is clicked , the application ahould display a message box with the sum of all the integers from 1 through the value entered by the user, as shown in Figure 5-46
